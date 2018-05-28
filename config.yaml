@@ -2,4 +2,4 @@
 baseURL: https://progops.github.io/signage/
 languageCode: en-us
 title: Signage
-disableRss: true
+disableKinds: ["RSS"]
